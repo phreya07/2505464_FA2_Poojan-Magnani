@@ -26,4 +26,7 @@ Ensure the interface and experience are user-friendly for children, adults, and 
 Gamified Motivation:
 Include badges, streaks, or small rewards to make consistent hydration fun and rewarding.
 
+# Problem 
+Many existing water reminder apps are either too complex, lack personalization, or fail to engage users over time. Most focus only on sending notifications without understanding the user’s age, lifestyle, or health needs. Some have confusing interfaces that can be difficult for children or seniors to use, while others lack motivation or creativity, making users lose interest quickly. Additionally, very few apps provide emotional connection or friendly interaction—something that can make the experience enjoyable and habit-forming. These gaps inspired the creation of Fresh WaterBuddy, a simpler, friendlier, and more personalized hydration companion.
+
 streamlit link- https://2505464fa2poojan-magnani.streamlit.app/
